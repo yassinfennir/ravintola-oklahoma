@@ -1,8 +1,8 @@
 TO: oklahoma@oklahoma.fi
 SUBJECT: Ravintola Oklahoma — uusi verkkosivusto valmis + lasku (399€)
 PREVIEW: https://yassinfennir.github.io/ravintola-oklahoma/
-INVOICE: YEF-2026-023
-DATE: 2026-03-18T03:04:31.746Z
+INVOICE: YEF-2026-029
+DATE: 2026-03-18T03:16:21.035Z
 
 Hei!
 
