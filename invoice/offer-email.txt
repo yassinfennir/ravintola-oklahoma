@@ -1,8 +1,8 @@
 TO: oklahoma@oklahoma.fi
 SUBJECT: Ravintola Oklahoma — uusi verkkosivusto valmis + lasku (399€)
-PREVIEW: https://yef-oklahoma.netlify.app
+PREVIEW: https://yassinfennir.github.io/ravintola-oklahoma/
 INVOICE: YEF-2026-023
-DATE: 2026-03-18T02:46:05.444Z
+DATE: 2026-03-18T03:04:31.746Z
 
 Hei!
 
@@ -12,7 +12,7 @@ Tutustuin ravintolanne Ravintola Oklahoma verkkosivustoon ja huomasin, etta siin
 
 Siksi tein teille ILMAISEKSI esikatselun uudesta, modernista verkkosivustosta:
 
-👉  https://yef-oklahoma.netlify.app
+👉  https://yassinfennir.github.io/ravintola-oklahoma/
 
 Katsokaa rauhassa — tama on tehty juuri teille, eika se maksa mitaan. Halusin nayttaa, milta teidän yrityksenne voi nayttaa verkossa.
 
